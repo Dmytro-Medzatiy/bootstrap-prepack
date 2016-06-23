@@ -1,5 +1,5 @@
 [
-  {
+  { "type": "Badge",
     "props": {
       "bsStyle": "primary"
     },
